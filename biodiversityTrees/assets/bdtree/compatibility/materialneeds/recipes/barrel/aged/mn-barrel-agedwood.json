@@ -346,30 +346,6 @@
       },
       {
         "type": "block",
-        "code": "bdtree:woodenfence-aged-ew-free",
-        "name": "wood",
-        "quantity": 1
-      }
-    ],
-    "output": {
-      "type": "block",
-      "code": "game:woodenfence-aged-ew-free",
-      "quantity": 1
-    },
-    "requiresSeal": true,
-    "sealHours": 24
-  },
-  {
-    "code": "woodenfence-aged",
-    "ingredients": [
-      {
-        "type": "item",
-        "code": "game:vinegarportion",
-        "litres": 1,
-        "consumeLitres": 1
-      },
-      {
-        "type": "block",
         "code": "bdtree:woodenfence-*-ew-free",
         "name": "wood",
         "quantity": 1
